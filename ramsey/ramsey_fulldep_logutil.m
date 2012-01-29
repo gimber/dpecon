@@ -1,4 +1,4 @@
-% MATLAB code for Ramsey model with full depreciation and log utility
+% MATLAB code for non-stochastic Ramsey model with full depreciation and log utility
 % (also tested in GNU Octave 3.4.0)
 % Andrew Gimber, European University Institute
 % 2012-01-29

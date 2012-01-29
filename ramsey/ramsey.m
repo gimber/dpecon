@@ -1,4 +1,4 @@
-% MATLAB code for Ramsey model
+% MATLAB code for non-stochastic Ramsey model
 % (also tested in GNU Octave 3.4.0)
 % Andrew Gimber, European University Institute
 % 2012-01-29
